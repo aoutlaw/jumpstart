@@ -104,8 +104,21 @@ img {
 }
 
 .jumbotron-bike {
-	background-image: url("images/jumbotron-bike.jpg");
+  background-image: url("../images/jumbotron-bike.jpg");
 }
+
+.jumbotron-beer {
+  background-image: url("../images/jumbotron-beer.jpg");
+}
+
+.jumbotron-flowers {
+  background-image: url("../images/jumbotron-flowers.jpg");
+}
+
+.jumbotron-duffel {
+  background-image: url("../images/jumbotron-duffel.jpg");
+}
+
 
 /* Small Screens */
 @media only screen and (max-width: 767px) {
